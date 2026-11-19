@@ -1,0 +1,10 @@
+# Python libraries for Seminar 1.
+# Install them with:  pip install -r requirements.txt
+# Tested with Python 3.13 and: numpy 2.5.4, pandas 3.1.1, matplotlib 3.11.2, scikit-learn 1.9.1, seaborn 0.13.2, jupyterlab 4.6.6
+
+numpy>=1.26          # arrays
+pandas>=2.1          # tables in the notebooks, reading the SMS data
+matplotlib>=3.8      # plots in the notebooks
+seaborn>=0.13        # charts in one line (count plots, histograms, pair plots, heat maps)
+scikit-learn>=1.4    # the naive Bayes classifiers, word counts, iris data, train/test splits, cross-validation, confusion matrices
+jupyterlab>=4.0      # to open and run the notebooks
